@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Visual Studio Code
+.vscode
+
+# Secrets
+.env
+
 # User-specific files
 *.rsuser
 *.suo
